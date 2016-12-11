@@ -5,5 +5,6 @@ public class Dog   {
 
     public void vois() {
         System.out.println("VDFNKV");
+        System.out.println("VDFNKV");
     }
 }
